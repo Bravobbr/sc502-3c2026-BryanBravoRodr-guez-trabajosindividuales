@@ -1,0 +1,12 @@
+ESTADO DE CUENTA - DETALLE DE TRANSACCIONES
+--------------------------------------------------
+ID: 1 | Desc: Compra en Supermercado | Monto: ₡45,000.00
+ID: 2 | Desc: Pago de Electricidad | Monto: ₡12,500.00
+ID: 3 | Desc: Suscripción Streaming | Monto: ₡6,800.00
+ID: 4 | Desc: Cena Restaurante | Monto: ₡22,000.00
+
+RESUMEN FINANCIERO
+Total Contado: ₡86,300.00
+Monto con Interés (2.6%): ₡88,543.80
+Cashback Aplicado (0.1%): ₡86.30
+MONTO FINAL A PAGAR: ₡88,457.50
